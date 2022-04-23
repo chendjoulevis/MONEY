@@ -1,0 +1,4 @@
+FROM tomcat:8.0-alpine
+-ENV var=Key1
+-ENV var=wylliam
++ENV var=levis.com
